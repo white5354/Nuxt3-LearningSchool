@@ -21,4 +21,5 @@
   比npm强的点在1，会自动缓存本地下好的包，有的话就不需要从服务器下了，会检索依赖包的完整性  
   yarn 或者是yarn install 会直接安装依赖  
   yarn dev -o 加-o会自动打开浏览器  
-  yarn add 依赖包 -D 安装包用add   
+  yarn add 依赖包 -D 安装包用add  
+ 
